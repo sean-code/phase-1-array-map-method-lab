@@ -30,6 +30,5 @@ const titleCased = ()=> {
       tutorialsCapitalized.push(modifiedString);
       console.log(modifiedString);
 });
-
   return tutorialsCapitalized;
 } 
